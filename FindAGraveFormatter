@@ -1,0 +1,3 @@
+//Formats Find a Grave Information on WikiTree dot Com
+//Replace # with the individual's FindaGrave id number.
+* {{FindAGrave|######## }}
